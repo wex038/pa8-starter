@@ -18,7 +18,7 @@ void bubbleUp(Heap* h, int index) {
 
 }
 
-void insert(Heap* h, int k, char* val) {
+void add(Heap* h, int k, char* val) {
 
 }
 
