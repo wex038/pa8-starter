@@ -26,7 +26,7 @@ void bubbleDown(Heap* h, int index) {
 
 }
 
-char* poll(Heap* h) {
+char* removeMin(Heap* h) {
 
 }
 
