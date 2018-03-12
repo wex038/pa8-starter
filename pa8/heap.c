@@ -5,6 +5,9 @@
 #include "heap.h"
 
 /* Your Heap implementation here */
+// Some of these functions are not mentioned in the writeup
+// but are useful helper functions that you can use 
+
 
 void swap(Heap* h, int index1, int index2) {
 
@@ -49,6 +52,7 @@ Heap* makeHeap(int capacity) {
 char* peek(Heap* heap) {
   
 }
+
 int size(Heap* heap) {
   
 }
