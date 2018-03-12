@@ -46,4 +46,10 @@ Heap* makeHeap(int capacity) {
 
 }
 
+char* peek(Heap* heap) {
+  
+}
+int size(Heap* heap) {
+  
+}
 
